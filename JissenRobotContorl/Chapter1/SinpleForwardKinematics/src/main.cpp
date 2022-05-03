@@ -3,6 +3,15 @@
 #include <MyCobotBasic.h>
 #include <ParameterList.h>
 
+/*
+実装案
+
+  1.実装案；ボタンで切り替え
+    btnA: サーボを配列にまとめた角度で動かしていく、ディスプレイに手先位置座標を表示
+    btnB: パワーをオフにして、自由にサーボの手先を動かせるようにする、ディスプレイに手先座標を表示
+    btnC: 未定
+
+*/
 
 MyCobotBasic myCobot;   //インスタンス変数
 
