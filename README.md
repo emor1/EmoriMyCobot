@@ -21,3 +21,6 @@ lib_deps =
     m5stack/M5Stack@^0.4.0
     ../libs/MyCobotBasic
 ```
+
+## ArduinoのAPI
+https://docs.elephantrobotics.com/docs/myCobot-en/3-development/1.1-arduino/1.1-api.html
